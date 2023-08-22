@@ -1,4 +1,4 @@
-# Background_scenarios
+# Background scenarios generation for prospective LCA
 
 # Step 1
 install the Activity browser software using the following link. Activity browser is an open source software for Prospective LCA.
