@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/681527016.svg)](https://zenodo.org/badge/latestdoi/681527016)
 # License
 
 ## Copyright 2023 Safdar Abbas
